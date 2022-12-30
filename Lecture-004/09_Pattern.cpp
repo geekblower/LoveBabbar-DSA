@@ -14,7 +14,6 @@ int main() {
     cin>>n;
 
     int row = 1;
-    char count = 'A';
 
     while(row <= n) {
         int col = 1;
@@ -26,7 +25,6 @@ int main() {
         }
 
         cout<<endl;
-        count = count + 1;
         row = row + 1;
     }
 }
