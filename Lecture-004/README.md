@@ -2,296 +2,366 @@
 
 1.  
     ```
-    1 2 3 4 
-    1 2 3 4 
-    1 2 3 4 
-    1 2 3 4
+    Write a program to print the following pattern (for n=4) :
+    
+        1 2 3 4 
+        1 2 3 4 
+        1 2 3 4 
+        1 2 3 4
     ```
 
 2.  
     ```
-    4 3 2 1
-    4 3 2 1
-    4 3 2 1
-    4 3 2 1
+    Write a program to print the following pattern (for n=4) :
+    
+        4 3 2 1
+        4 3 2 1
+        4 3 2 1
+        4 3 2 1
     ```
     
 3.  
     ```
-    1 2 3
-    4 5 6
-    7 8 9
+    Write a program to print the following pattern (for n=3) :
+    
+        1 2 3
+        4 5 6
+        7 8 9
     ```
     
 4.  
     ```
-    *
-    * *
-    * * *
-    * * * *
+    Write a program to print the following pattern (for n=4) :
+    
+        *
+        * *
+        * * *
+        * * * *
     ```
     
 5.  
     ```
-    1
-    2 2
-    3 3 3
-    4 4 4 4
+    Write a program to print the following pattern (for n=4) :
+    
+        1
+        2 2
+        3 3 3
+        4 4 4 4
     ```
     
 6.
     ```
-    1
-    2 3
-    4 5 6
-    7 8 9 10
+    Write a program to print the following pattern (for n=4) :
+    
+        1
+        2 3
+        4 5 6
+        7 8 9 10
     ```
 
 7.
     ```
-    1
-    2 3
-    3 4 5
-    4 5 6 7
+    Write a program to print the following pattern (for n=4) :
+    
+        1
+        2 3
+        3 4 5
+        4 5 6 7
     ```
 
 8.
     ```
-    1
-    2 1
-    3 2 1
-    4 3 2 1
+    Write a program to print the following pattern (for n=4) :
+    
+        1
+        2 1
+        3 2 1
+        4 3 2 1
     ```
 
 9.
     ```
-    A A A
-    B B B
-    C C C
+    Write a program to print the following pattern (for n=3) :
+    
+        A A A
+        B B B
+        C C C
     ```
 
 10.
     ```
-    A B C D
-    A B C D
-    A B C D
-    A B C D
+    Write a program to print the following pattern (for n=4) :
+    
+        A B C D
+        A B C D
+        A B C D
+        A B C D
     ```
 
 11.
     ```
-    A B C
-    D E F
-    G H I
+    Write a program to print the following pattern (for n=3) :
+    
+        A B C
+        D E F
+        G H I
     ```
 
 12.
     ```
-    A B C
-    B C D
-    C D E
+    Write a program to print the following pattern (for n=3) :
+    
+        A B C
+        B C D
+        C D E
     ```
 
 13.
     ```
-    A
-    B B
-    C C C
+    Write a program to print the following pattern (for n=3) :
+    
+        A
+        B B
+        C C C
     ```
 
 14.
     ```
-    A
-    B C
-    D E F
-    G H I J
+    Write a program to print the following pattern (for n=4) :
+    
+        A
+        B C
+        D E F
+        G H I J
     ```
 
 15.
     ```
-    A
-    B C
-    C D E
-    D E F G
+    Write a program to print the following pattern (for n=4) :
+    
+        A
+        B C
+        C D E
+        D E F G
     ```
 
 16.
     ```
-    D 
-    C C
-    B B B
-    A A A A
+    Write a program to print the following pattern (for n=4) :
+    
+        D 
+        C C
+        B B B
+        A A A A
     ```
 
 17.
     ```
-    D
-    C D
-    B C D
-    A B C D
+    Write a program to print the following pattern (for n=4) :
+    
+        D
+        C D
+        B C D
+        A B C D
     ```
 
 18.
     ```
-    A B C
-    B C D
-    C D E
+    Write a program to print the following pattern (for n=3) :
+    
+        A B C
+        B C D
+        C D E
     ```
 
 19.
     ```
-        *
-      * *
-    * * *
+    Write a program to print the following pattern (for n=3) :
+    
+            *
+          * *
+        * * *
     ```
 
 20.
     ```
-    * * * *
-    * * *
-    * *
-    * 
+    Write a program to print the following pattern (for n=4) :
+    
+        * * * *
+        * * *
+        * *
+        * 
     ```
 
 21.
     ```
-    * * * *
-      * * *
-        * *
-          *
+    Write a program to print the following pattern (for n=4) :
+    
+        * * * *
+          * * *
+            * *
+              *
     ```
 
 22.
     ```
-    1 1 1 1
-      2 2 2
-        3 3
-          4
+    Write a program to print the following pattern (for n=4) :
+    
+        1 1 1 1
+          2 2 2
+            3 3
+              4
     ```
 
 23.
     ```
-          1
-        2 2
-      3 3 3
-    4 4 4 4
+    Write a program to print the following pattern (for n=4) :
+    
+              1
+            2 2
+          3 3 3
+        4 4 4 4
     ```
 
 24.
     ```
-    1 2 3 4
-      2 3 4
-        3 4
-          4
+    Write a program to print the following pattern (for n=4) :
+    
+        1 2 3 4
+          2 3 4
+            3 4
+              4
     ```
 
 25.
     ```
-          1
-        2 3
-      4 5 6
-    7 8 9 10
+    Write a program to print the following pattern (for n=4) :
+    
+              1
+            2 3
+          4 5 6
+        7 8 9 10
     ```
 
 26.
     ```
-          1
-        1 2 1
-      1 2 3 2 1
-    1 2 3 4 3 2 1
+    Write a program to print the following pattern (for n=4) :
+    
+              1
+            1 2 1
+          1 2 3 2 1
+        1 2 3 4 3 2 1
     ```
 
 27.
     ```
-    1 2 3 4 5 5 4 3 2 1
-    1 2 3 4 * * 4 3 2 1
-    1 2 3 * * * * 3 2 1
-    1 2 * * * * * * 2 1
-    1 * * * * * * * * 1
+    Write a program to print the following pattern (for n=5) :
+    
+        1 2 3 4 5 5 4 3 2 1
+        1 2 3 4 * * 4 3 2 1
+        1 2 3 * * * * 3 2 1
+        1 2 * * * * * * 2 1
+        1 * * * * * * * * 1
     ```
 
 28.
     ```
-       *
-      * *
-     * * *
-    * * * *
+    Write a program to print the following pattern (for n=4) :
+    
+           *
+          * *
+         * * *
+        * * * *
     ```
 
 29.
     ```
-    * * * *
-     * * *
-      * *
-       *
+    Write a program to print the following pattern (for n=4) :
+    
+        * * * *
+         * * *
+          * *
+           *
     ```
 
 30.
     ```
-    *
-    * *
-    * * * 
-    * * * *
-    * * * * *
-    * * * *
-    * * *
-    * *
-    *
+    Write a program to print the following pattern (for n=5) :
+    
+        *
+        * *
+        * * * 
+        * * * *
+        * * * * *
+        * * * *
+        * * *
+        * *
+        *
     ```
 
 31.
     ```
-    * * * *
-     * * *
-      * *
-       *
-       *
-      * *
-     * * *
-    * * * *
+    Write a program to print the following pattern (for n=4) :
+    
+        * * * *
+         * * *
+          * *
+           *
+           *
+          * *
+         * * *
+        * * * *
     ```
 
 32.
     ```
-        *
-       * *
-      * * *
-     * * * *
-    * * * * *
-     * * * *
-      * * *
-       * *
-        *
+    Write a program to print the following pattern (for n=5) :
+    
+            *
+           * *
+          * * *
+         * * * *
+        * * * * *
+         * * * *
+          * * *
+           * *
+            *
     ```
 
 33.
     ```
-    * * * * *
-     * * * * *
-      * * * * *
-       * * * * *
+    Write a program to print the following pattern (for n=5) :
+    
         * * * * *
+         * * * * *
+          * * * * *
+           * * * * *
+            * * * * *
     ```
 
 34.
     ```
-    *                 *
-    * *             * *
-    * * *         * * *
-    * * * *     * * * *
-    * * * * * * * * * *
-    * * * *     * * * *
-    * * *         * * *
-    * *             * *
-    *                 *
+    Write a program to print the following pattern (for n=5) :
+    
+        *                 *
+        * *             * *
+        * * *         * * *
+        * * * *     * * * *
+        * * * * * * * * * *
+        * * * *     * * * *
+        * * *         * * *
+        * *             * *
+        *                 *
     ```
 
 35.
     ```
-    1 * * * * * * * * 1
-    1 2 * * * * * * 2 1
-    1 2 3 * * * * 3 2 1
-    1 2 3 4 * * 4 3 2 1
-    1 2 3 4 5 5 4 3 2 1
+    Write a program to print the following pattern (for n=5) :
+    
+        1 * * * * * * * * 1
+        1 2 * * * * * * 2 1
+        1 2 3 * * * * 3 2 1
+        1 2 3 4 * * 4 3 2 1
+        1 2 3 4 5 5 4 3 2 1
     ```
 
