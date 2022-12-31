@@ -13,3 +13,20 @@
 - **Lecture - 008** : <ins>Switch statement & functions</ins>
 - **Lecture - 009** : <ins>Introduction to arrays in C++</ins>
 - **Lecture - 010** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
+- **Lecture - 011** : <ins>Time & space complexity</ins>
+- **Lecture - 012** : <ins>Binary search</ins>
+- **Lecture - 013** : <ins>Binary search interview questions (part-1)</ins>
+- **Lecture - 014** : <ins>Binary search interview questions (part-2)</ins>
+- **Lecture - 015** : <ins>Book allocation & aggressive cow problem</ins>
+- **Lecture - 016** : <ins>Selection sort</ins>
+- **Lecture - 017** : <ins>Bubble sort</ins>
+- **Lecture - 018** : <ins>Insertion sort</ins>
+- **Lecture - 019** : <ins>C++ STL</ins>
+- **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
+
+
+
+# Maintainers :
+<a href="https://github.com/geekblower/LoveBabbar-DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=geekblower/LoveBabbar-DSA" />
+</a>
