@@ -8,8 +8,8 @@
 - **Lecture - 003** : <ins>If-else, while loop & lots of pattern</ins> - _28-12-2022 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-003)
 - **Lecture - 004** : <ins>Solving pattern questions</ins> - _29-12-2022 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-004)
 - **Lecture - 005** : <ins>Bitwise operators, for loops, operator precedence & variable scoping</ins> - _30-12-2022 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-005)
-- **Lecture - 006** : <ins>Binary & decimal number system</ins> - _00-00-0000 (xxx)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-006)
-- **Lecture - 007** : <ins>Leetcode problem solving session</ins> - _00-00-0000 (xxx)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-007)
-- **Lecture - 008** : <ins>Switch statement & functions</ins> - _00-00-0000 (xxx)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-008)
-- **Lecture - 009** : <ins>Introduction to arrays in C++</ins> - _00-00-0000 (xxx)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-009)
-- **Lecture - 010** : <ins>Solving leetcode/codestudio questions (arrays)</ins> - _00-00-0000 (xxx)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-010)
+- **Lecture - 006** : <ins>Binary & decimal number system</ins>
+- **Lecture - 007** : <ins>Leetcode problem solving session</ins>
+- **Lecture - 008** : <ins>Switch statement & functions</ins>
+- **Lecture - 009** : <ins>Introduction to arrays in C++</ins>
+- **Lecture - 010** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
