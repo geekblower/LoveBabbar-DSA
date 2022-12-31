@@ -37,7 +37,7 @@
 
 8.
     ```
-    Write a program to print the following pattern :
+    Write a program to print the following pattern (for n=4) :
     
         * * * *
         * * * *
@@ -47,7 +47,7 @@
 
 9.
     ```
-    Write a program to print the following pattern :
+    Write a program to print the following pattern (for n=4) :
     
         1 1 1 1
         2 2 2 2
