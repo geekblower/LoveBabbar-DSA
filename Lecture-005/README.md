@@ -2,17 +2,17 @@
 
 1.  
     ```
-    Write a program to to show the working of bitwise operators.
+    Write a program to show the working of bitwise operators.
     ```
 
 2.  
     ```
-    Write a program to sshow the working of left and right shift operators.
+    Write a program to show the working of left and right shift operators.
     ```
     
 3.  
     ```
-    Write a program to shpw the working of increment and decrement operators.
+    Write a program to show the working of increment and decrement operators.
     ```
     
 4.  
