@@ -12,7 +12,7 @@
 - **Lecture - 007** : <ins>Leetcode problem solving session</ins> - _03-01-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-007)
 - **Lecture - 008** : <ins>Switch statement & functions</ins> - _04-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-008)
 - **Lecture - 009** : <ins>Introduction to arrays in C++</ins> - _05-01-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-009)
-- **Lecture - 010** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
+- **Lecture - 010** : <ins>Solving leetcode/codestudio questions (arrays)</ins> - _06-01-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-010)
 - **Lecture - 011** : <ins>Time & space complexity</ins>
 - **Lecture - 012** : <ins>Binary search</ins>
 - **Lecture - 013** : <ins>Binary search interview questions (part-1)</ins>
