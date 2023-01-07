@@ -26,7 +26,7 @@
 
 
 
-# Maintainers :
+## Contributors :
 <a href="https://github.com/geekblower/LoveBabbar-DSA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=geekblower/LoveBabbar-DSA" />
 </a>
