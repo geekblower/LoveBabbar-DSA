@@ -1,4 +1,6 @@
 #include <iostream>
+#include <algorithm>
+#include <vector>
 using namespace std;
 
 void printArray(int arr[], int size) {
@@ -9,7 +11,33 @@ void printArray(int arr[], int size) {
 }
 
 bool uniqueOccurrences(int arr[], int size) {
+    vector<int> count;
+    
+    //In-built function to sort the array
+    sort(arr, arr+size);
 
+    for(int i=0; i<size; i++) {
+        int cnt = 0;
+        int flag = arr[i];
+
+        while(i<size && arr[i] == flag) {
+            i++;
+            cnt++;
+        }
+        i--;
+
+        count.push_back (cnt);
+    }
+
+    sort(count.begin(), count.end());
+
+    for(int i=0; i<count.size()-1; i++) {
+        if(count[i] == count[i+1]) {
+            return false;
+        }
+    }
+
+    return true;
 }
 
 int main() {
