@@ -19,7 +19,7 @@
 - **Lecture - 014** : <ins>Binary search interview questions (part-2)</ins> - _11-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-014)
 - **Lecture - 015** : <ins>Book allocation & aggressive cow problem</ins> - _12-01-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-015)
 - **Lecture - 016** : <ins>Selection sort</ins> - _14-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-016)
-- **Lecture - 017** : <ins>Bubble sort</ins>
+- **Lecture - 017** : <ins>Bubble sort</ins> - _16-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-017)
 - **Lecture - 018** : <ins>Insertion sort</ins>
 - **Lecture - 019** : <ins>C++ STL</ins>
 - **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
