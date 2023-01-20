@@ -21,7 +21,7 @@
 - **Lecture - 016** : <ins>Selection sort</ins> - _14-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-016)
 - **Lecture - 017** : <ins>Bubble sort</ins> - _16-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-017)
 - **Lecture - 018** : <ins>Insertion sort</ins> - _17-01-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-018)
-- **Lecture - 019** : <ins>C++ STL</ins>
+- **Lecture - 019** : <ins>C++ STL</ins> - _20-01-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-019)
 - **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
 
 
