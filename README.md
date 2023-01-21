@@ -22,7 +22,139 @@
 - **Lecture - 017** : <ins>Bubble sort</ins> - _16-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-017)
 - **Lecture - 018** : <ins>Insertion sort</ins> - _17-01-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-018)
 - **Lecture - 019** : <ins>C++ STL</ins> - _20-01-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-019)
-- **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
+- **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins> - _21-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-020)
+- **Lecture - 021** : <ins>Solving leetcode/codestudio questions (arrays)</ins>
+- **Lecture - 022** : <ins>All about char arrays, strings & solving leetcode questions</ins>
+- **Lecture - 023** : <ins>Introduction to 2D arrays in C++</ins>
+- **Lecture - 024** : <ins>Basic math for DSA</ins>
+- **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins>
+- **Lecture - 026** : <ins>Pointers in C++ (part-2)</ins>
+- **Lecture - 027** : <ins>Double pointers in C++</ins>
+- **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins>
+- **Lecture - 029** : <ins>Dynamic memory allocation</ins>
+- **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins>
+
+
+
+
+
+
+- **Lecture - 031** : <ins>Learning recursion the best way</ins>
+- **Lecture - 032** : <ins>Understanding recursion</ins>
+- **Lecture - 033** : <ins>Recursion & binary search</ins>
+- **Lecture - 034** : <ins>Recursion with strings</ins>
+- **Lecture - 035** : <ins>Merge sort using recursion</ins>
+- **Lecture - 036** : <ins>Quick sort using recursion</ins>
+- **Lecture - 037** : <ins>Recursion: subsets/subsequences of string</ins>
+- **Lecture - 038** : <ins>Phone keypad problem</ins>
+- **Lecture - 039** : <ins>Permutation of a string</ins>
+- **Lecture - 040** : <ins>Rat in a maze problem</ins>
+
+
+
+
+
+
+- **Lecture - 041** : <ins>Time & space complexity of recursive algorithm</ins>
+- **Lecture - 042** : <ins>OOPs concepts in C++</ins>
+- **Lecture - 043** : <ins>A pillars of OOPs concept: inheritance, polymorphism, encapsulation & abstraction</ins>
+- **Lecture - 044** : <ins>Linked list & its types - singly, doubly, circular</ins>
+- **Lecture - 045** : <ins>Linked list questions: reverse LL and find middle of LL</ins>
+- **Lecture - 046** : <ins>Linked list questions: reverse LL in 'k group' && check LL is circular or not</ins>
+- **Lecture - 047** : <ins>Detect & remove loop in linked list</ins>
+- **Lecture - 048** : <ins>Remove duplicates from a sorted/unsorted linked list</ins>
+- **Lecture - 049** : <ins>Merge 2 sorted linked list & sort 0s, 1s, 2s in linked list</ins>
+- **Lecture - 050** : <ins>Check palindrome in linked list</ins>
+- **Lecture - 051** : <ins>Add 2 Numbers represented by linked lists</ins>
+- **Lecture - 052** : <ins>Clone a linked list with random pointers</ins>
+- **Lecture - 053** : <ins>Merge sort in linked list</ins>
+- **Lecture - 054** : <ins>Introduction to stacks</ins>
+- **Lecture - 055** : <ins>Stack interview questions</ins>
+- **Lecture - 056** : <ins>Largest rectangular area in histogram</ins>
+- **Lecture - 057** : <ins>Stack - celebrity problem & max rectangle in binary matrix with all 1's</ins>
+- **Lecture - 058** : <ins>'N' stacks in an array</ins>
+- **Lecture - 059** : <ins>Design special stack problem</ins>
+- **Lecture - 060** : <ins>Queues in C++</ins>
+- **Lecture - 061** : <ins>Queue FAANG interview questions</ins>
+- **Lecture - 062** : <ins>Binary trees & its representations</ins>
+- **Lecture - 063** : <ins>Binary tree FAANG interview questions (part-1)</ins>
+- **Lecture - 064** : <ins>Binary tree FAANG interview questions (part-2)</ins>
+- **Lecture - 065** : <ins>Binary tree FAANG interview questions (part-3)</ins>
+- **Lecture - 066** : <ins>Construct a binary tree from inorder, preorder & postorder traversal</ins>
+- **Lecture - 067** : <ins>Minimum time to burn the entire binary tree</ins>
+- **Lecture - 068** : <ins>Morris traversal: Flatten a binary tree to linked list</ins>
+- **Lecture - 069** : <ins>Binary search tree & its implementation</ins>
+- **Lecture - 070** : <ins>Binary search tree FAANG interview questions (part-1)</ins>
+- **Lecture - 071** : <ins>Binary search tree FAANG interview questions (part-2)</ins>
+- **Lecture - 072** : <ins>Merge 2 binary search trees</ins>
+- **Lecture - 073** : <ins>Largest BST in a binary tree</ins>
+- **Lecture - 074** : <ins>Heaps in C++</ins>
+- **Lecture - 075** : <ins>Heaps interview questions (part-1)</ins>
+- **Lecture - 076** : <ins>Heaps interview questions (part-2)</ins>
+- **Lecture - 077** : <ins>Heaps interview questions (part-3)</ins>
+- **Lecture - 078** : <ins>Hashmaps in C++</ins>
+- **Lecture - 079** : <ins>Trie & its implementation</ins>
+- **Lecture - 080** : <ins>Longest common prefix problem</ins>
+- **Lecture - 081** : <ins>Implement a phone directory using trie</ins>
+- **Lecture - 082** : <ins>Rat in maze problem</ins>
+- **Lecture - 083** : <ins>N-Queen problem</ins>
+- **Lecture - 084** : <ins>Sudoku solver problem</ins>
+- **Lecture - 085** : <ins>Introduction to graphs</ins>
+- **Lecture - 086** : <ins>BFS traversal in graphs</ins>
+- **Lecture - 087** : <ins>DFS traversal in graphs</ins>
+- **Lecture - 088** : <ins>Cycle detection in undirected graphs</ins>
+- **Lecture - 089** : <ins>Cycle detection in directed graphs</ins>
+- **Lecture - 090** : <ins>Topological sort (using DFS)</ins>
+- **Lecture - 091** : <ins>Topological sort (using kahn's algorithm)</ins>
+- **Lecture - 092** : <ins>Cycle detection in directed graphs (using BFS)</ins>
+- **Lecture - 093** : <ins>Shortest path in undirected graphs</ins>
+- **Lecture - 094** : <ins>Shortest path in directed acyclic graphs</ins>
+- **Lecture - 095** : <ins>Dijkstra's algorithm</ins>
+- **Lecture - 096** : <ins>Minimum spanning tree</ins>
+- **Lecture - 097** : <ins>Kruskal's algorithm, Disjoint set & Union by rank & path compression</ins>
+- **Lecture - 098** : <ins>Bridges in a graph</ins>
+- **Lecture - 099** : <ins>Articulation points in graphs</ins>
+- **Lecture - 100** : <ins>Kosaraju's algorithm for strongly connected components</ins>
+- **Lecture - 101** : <ins>Bellman ford algorithm</ins>
+- **Lecture - 102** : <ins>Introduction to dynamic programming</ins>
+- **Lecture - 103** : <ins>Minimum cost climbing stairs</ins>
+- **Lecture - 104** : <ins>Minimum number of coins</ins>
+- **Lecture - 105** : <ins>Maximum sum of non-adjacent elements</ins>
+- **Lecture - 106** : <ins>House robbery problem</ins>
+- **Lecture - 107** : <ins>Cut rod into segments of X, Y, Z</ins>
+- **Lecture - 108** : <ins>Count derangements</ins>
+- **Lecture - 109** : <ins>Painting fence algorithm</ins>
+- **Lecture - 110** : <ins>0/1 knapsack problem - 2D DP concept</ins>
+- **Lecture - 111** : <ins>Combination sum IV problem</ins>
+- **Lecture - 112** : <ins>Perfect squares problem</ins>
+- **Lecture - 113** : <ins>Minimum cost for tickets (part-1)</ins>
+- **Lecture - 114** : <ins>Minimum cost for tickets (part-2)</ins>
+- **Lecture - 115** : <ins>Largest square area in matrix</ins>
+- **Lecture - 116** : <ins>Min score triangulation problem</ins>
+- **Lecture - 117** : <ins>Minimum sideways jump leetcode</ins>
+- **Lecture - 118** : <ins>Reducing dishes leetcode</ins>
+- **Lecture - 119** : <ins>Longest increasing subsequence & Russian Doll leetcode</ins>
+- **Lecture - 120** : <ins>Maximum height by stacking cuboid</ins>
+- **Lecture - 121** : <ins>Pizza with 3n slices</ins>
+- **Lecture - 122** : <ins>Number of dice rolls with target sum</ins>
+- **Lecture - 123** : <ins>Partition equal subset sum</ins>
+- **Lecture - 124** : <ins>Minimum swaps to make subsequences increasing</ins>
+- **Lecture - 125** : <ins>Longest arithmetic subsequence</ins>
+- **Lecture - 126** : <ins>Longest AP with given difference 'd'</ins>
+- **Lecture - 127** : <ins>Unique binary search trees & catalan numbers</ins>
+- **Lecture - 128** : <ins>Guess number higher or lower</ins>
+- **Lecture - 129** : <ins>Minimum cost tree from leaf values</ins>
+- **Lecture - 130** : <ins>Buy and sell stock (part-1)</ins>
+- **Lecture - 131** : <ins>Buy and sell stock (part-2)</ins>
+- **Lecture - 132** : <ins>Buy and sell stock (part-3)</ins>
+- **Lecture - 133** : <ins>Buy and sell stock (part-4)</ins>
+- **Lecture - 134** : <ins>Buy and sell stock (part-5)</ins>
+- **Lecture - 135** : <ins>Longest common subsequence</ins>
+- **Lecture - 136** : <ins>Longest palindromic subsequence</ins>
+- **Lecture - 137** : <ins>Edit distance</ins>
+- **Lecture - 138** : <ins>Maximum rectangle with all 1's</ins>
+- **Lecture - 139** : <ins>Wildcard pattern matching</ins>
+- **Lecture - 140** : <ins>Greedy algorithms</ins>
 
 
 
