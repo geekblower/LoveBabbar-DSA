@@ -2,7 +2,7 @@
 
 1.
     ```
-    Write a program to find the first and last occurrence of an element in a sorted array.
+    Write a program to find the first and last occurrence of an element in a sorted array. (Leetcode : Problem No 34)
     ```
 2.
     ```
@@ -10,9 +10,9 @@
     ```
 3.
     ```
-    Write a program to find the peak element of a mountain array.
+    Write a program to find the peak element of a mountain array. (Leetcode : Problem No 852)
     ```
 4.
     ```
-    Write a program to find the pivot element of an array.
+    Write a program to find the pivot element of an array. (Leetcode : Problem No 724)
     ```
