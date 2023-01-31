@@ -1,24 +1,23 @@
 #include <iostream>
 using namespace std;
 
-int peakIndex(int arr[], int size) {
-    int start = 0;
-    int end = size-1;
-    int mid = start + (end-start)/2;
+int pivotElement(int arr[], int size) {
+    int sum[100] = {0};
 
-    int ans = -1;
-
-    while(start < end) {
-        if(arr[mid] < arr[mid+1]) {
-            start = mid + 1;
-        } else {
-            end = mid;
-        }
-
-        mid = start + (end-start)/2;
+    for(int i=0; i<size; i++) {
+        sum[i+1] = sum[i] + arr[i];
     }
 
-    return start;
+    for(int i=0; i<size; i++) {
+        int left = sum[i];
+        int right = sum[size] - sum[i+1];
+
+        if(left == right) {
+            return arr[i];
+        }
+    }
+
+    return -1;
 }
 
 int main() {
@@ -33,11 +32,9 @@ int main() {
         cin>>arr[i];
     }
 
-    int peak = peakIndex(arr, n);
+    int pivot = pivotElement(arr, n);
 
-    cout<<"Peak element of the array : "<<peak;
+    cout<<"Pivot element of the array : "<<pivot;
 
     return 0;
 }
-
-//1 3 5 15 18 20 30 25 25 24 22 21 19 16 14 13 10 9 9 1 
