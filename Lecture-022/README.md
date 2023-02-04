@@ -26,7 +26,7 @@
     ```
 7.
     ```
-    Write a program to reverse words in a string. (Leetcode : Problem No 1806)
+    Write a program to reverse words in a string. (Leetcode : Problem No 151)
     ```
 8.
     ```
