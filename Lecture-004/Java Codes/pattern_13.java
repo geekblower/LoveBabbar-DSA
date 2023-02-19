@@ -1,9 +1,11 @@
+import java.util.Scanner;
+
 public class pattern_13 {
     public static void main(String args[]) throws Exception {
-        int n = 3;
+        Scanner scn = new Scanner(System.in);
 
-        // System.out.println("Enter the the value of n : ");
-        // Input n
+        System.out.print("Enter the value of n : ");
+        int n = scn.nextInt();
 
         int i = 0;
 
