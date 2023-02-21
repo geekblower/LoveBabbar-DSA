@@ -1,16 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define MAX 100
 
-void input2dArray(int arr[][MAX], int row, int col) {
-    for(int i=0; i<row; i++) {
-        for(int j=0; j<col; j++) {
-            cin >> arr[i][j];
-        }
-    }
-}
-
-vector<int> wavePrint(int arr[][MAX], int row, int col) {
+vector<int> wavePrint(vector<vector<int>> arr) {
+    int row = arr.size();
+    int col = arr[0].size();
     vector<int> wave;
     
     for(int i=0; i<col; i++) {
@@ -30,15 +23,23 @@ vector<int> wavePrint(int arr[][MAX], int row, int col) {
 
 int main() {
     int row, col;
-    int arr[MAX][MAX];
+    vector<vector<int>> arr;
 
     cout << "Enter the number of row & col : ";
     cin >> row >> col;
     
     cout << "Enter the elements of array : \n";
-    input2dArray(arr, row, col);
+    for(int i=0; i<row; i++) {
+        vector<int> temp;
+        for(int j=0; j<col; j++) {    
+            int t;
+            cin >> t;
+            temp.push_back(t);
+        }
+        arr.push_back(temp);
+    }
 
-    vector<int> wave = wavePrint(arr, row, col);
+    vector<int> wave = wavePrint(arr);
 
     cout << "Wave print of array : ";
     for(int i:wave) {
