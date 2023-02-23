@@ -27,7 +27,7 @@
 - **Lecture - 022** : <ins>All about char arrays, strings & solving leetcode questions</ins> - _25-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-022)
 - **Lecture - 023** : <ins>Introduction to 2D arrays in C++</ins> - _21-01-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-023)
 - **Lecture - 024** : <ins>Basic math for DSA</ins> - _22-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-024)
-- **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins>
+- **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins> - _23-01-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-025)
 - **Lecture - 026** : <ins>Pointers in C++ (part-2)</ins>
 - **Lecture - 027** : <ins>Double pointers in C++</ins>
 - **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins>
