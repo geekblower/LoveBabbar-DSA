@@ -5,7 +5,8 @@ int main() {
     char name[50];
     
     cout<<"Enter string : ";
-    cin>>name;
+    // cin>>name;
+    getline(cin, name);
 
     cout<<"Entered string : "<<name<<endl;
 
