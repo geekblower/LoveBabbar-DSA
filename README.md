@@ -29,9 +29,9 @@
 - **Lecture - 024** : <ins>Basic math for DSA</ins> - _22-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-024)
 - **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins> - _23-01-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-025)
 - **Lecture - 026** : <ins>Pointers in C++ (part-2)</ins> - _24-01-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
-- **Lecture - 027** : <ins>Double pointers in C++</ins>
-- **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins>
-- **Lecture - 029** : <ins>Dynamic memory allocation</ins>
+- **Lecture - 027** : <ins>Double pointers in C++</ins> - _25-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
+- **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
+- **Lecture - 029** : <ins>Dynamic memory allocation</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-029)
 - **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins>
 
 
