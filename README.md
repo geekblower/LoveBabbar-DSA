@@ -32,14 +32,8 @@
 - **Lecture - 027** : <ins>Double pointers in C++</ins> - _25-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
 - **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
 - **Lecture - 029** : <ins>Dynamic memory allocation</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-029)
-- **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins>
-
-
-
-
-
-
-- **Lecture - 031** : <ins>Learning recursion the best way</ins>
+- **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins> - _27-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-030)
+- **Lecture - 031** : <ins>Learning recursion the best way</ins> - _27-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
 - **Lecture - 032** : <ins>Understanding recursion</ins>
 - **Lecture - 033** : <ins>Recursion & binary search</ins>
 - **Lecture - 034** : <ins>Recursion with strings</ins>
