@@ -34,8 +34,8 @@
 - **Lecture - 029** : <ins>Dynamic memory allocation</ins> - _26-02-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-029)
 - **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins> - _27-02-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-030)
 - **Lecture - 031** : <ins>Learning recursion the best way</ins> - _27-02-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
-- **Lecture - 032** : <ins>Understanding recursion</ins> - _28-02-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
-- **Lecture - 033** : <ins>Recursion & binary search</ins> - _01-03-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
+- **Lecture - 032** : <ins>Understanding recursion</ins> - _28-02-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-032)
+- **Lecture - 033** : <ins>Recursion & binary search</ins> - _01-03-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-033)
 - **Lecture - 034** : <ins>Recursion with strings</ins>
 - **Lecture - 035** : <ins>Merge sort using recursion</ins>
 - **Lecture - 036** : <ins>Quick sort using recursion</ins>
