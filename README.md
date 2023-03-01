@@ -25,17 +25,17 @@
 - **Lecture - 020** : <ins>Solving leetcode/codestudio questions (arrays)</ins> - _21-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-020)
 - **Lecture - 021** : <ins>Solving leetcode/codestudio questions (arrays)</ins> - _23-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-021)
 - **Lecture - 022** : <ins>All about char arrays, strings & solving leetcode questions</ins> - _25-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-022)
-- **Lecture - 023** : <ins>Introduction to 2D arrays in C++</ins> - _21-01-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-023)
-- **Lecture - 024** : <ins>Basic math for DSA</ins> - _22-01-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-024)
-- **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins> - _23-01-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-025)
-- **Lecture - 026** : <ins>Pointers in C++ (part-2)</ins> - _24-01-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
-- **Lecture - 027** : <ins>Double pointers in C++</ins> - _25-01-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
-- **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
-- **Lecture - 029** : <ins>Dynamic memory allocation</ins> - _26-01-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-029)
-- **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins> - _27-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-030)
-- **Lecture - 031** : <ins>Learning recursion the best way</ins> - _27-01-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
-- **Lecture - 032** : <ins>Understanding recursion</ins>
-- **Lecture - 033** : <ins>Recursion & binary search</ins>
+- **Lecture - 023** : <ins>Introduction to 2D arrays in C++</ins> - _21-02-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-023)
+- **Lecture - 024** : <ins>Basic math for DSA</ins> - _22-02-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-024)
+- **Lecture - 025** : <ins>Pointers in C++ (part-1)</ins> - _23-02-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-025)
+- **Lecture - 026** : <ins>Pointers in C++ (part-2)</ins> - _24-02-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
+- **Lecture - 027** : <ins>Double pointers in C++</ins> - _25-02-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
+- **Lecture - 028** : <ins>Reference variables, static vs dynamic memory</ins> - _26-02-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-026)
+- **Lecture - 029** : <ins>Dynamic memory allocation</ins> - _26-02-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-029)
+- **Lecture - 030** : <ins>Macros, global variables, inline functions & default arguments</ins> - _27-02-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-030)
+- **Lecture - 031** : <ins>Learning recursion the best way</ins> - _27-02-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
+- **Lecture - 032** : <ins>Understanding recursion</ins> - _28-02-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
+- **Lecture - 033** : <ins>Recursion & binary search</ins> - _01-03-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-031)
 - **Lecture - 034** : <ins>Recursion with strings</ins>
 - **Lecture - 035** : <ins>Merge sort using recursion</ins>
 - **Lecture - 036** : <ins>Quick sort using recursion</ins>
