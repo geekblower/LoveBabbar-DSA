@@ -37,8 +37,8 @@
 - **Lecture - 032** : <ins>Understanding recursion</ins> - _28-02-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-032)
 - **Lecture - 033** : <ins>Recursion & binary search</ins> - _01-03-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-033)
 - **Lecture - 034** : <ins>Recursion with strings</ins> - _02-03-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-034)
-- **Lecture - 035** : <ins>Merge sort using recursion</ins>
-- **Lecture - 036** : <ins>Quick sort using recursion</ins>
+- **Lecture - 035** : <ins>Merge sort using recursion</ins> - _03-03-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-035)
+- **Lecture - 036** : <ins>Quick sort using recursion</ins> - _04-03-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-036)
 - **Lecture - 037** : <ins>Recursion: subsets/subsequences of string</ins>
 - **Lecture - 038** : <ins>Phone keypad problem</ins>
 - **Lecture - 039** : <ins>Permutation of a string</ins>
