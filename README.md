@@ -41,7 +41,7 @@
 - **Lecture - 036** : <ins>Quick sort using recursion</ins> - _04-03-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-036)
 - **Lecture - 037** : <ins>Recursion: subsets/subsequences of string</ins> - _05-03-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-037)
 - **Lecture - 038** : <ins>Phone keypad problem</ins> - _06-03-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-038)
-- **Lecture - 039** : <ins>Permutation of a string</ins>
+- **Lecture - 039** : <ins>Permutation of a string</ins> - _07-03-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-039)
 - **Lecture - 040** : <ins>Rat in a maze problem</ins>
 
 
