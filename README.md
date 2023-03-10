@@ -43,7 +43,7 @@
 - **Lecture - 038** : <ins>Phone keypad problem</ins> - _06-03-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-038)
 - **Lecture - 039** : <ins>Permutation of a string</ins> - _07-03-2023 (Tue)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-039)
 - **Lecture - 040** : <ins>Rat in a maze problem</ins> - _09-03-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-040)
-- **Lecture - 041** : <ins>Time & space complexity of recursive algorithm</ins>
+- **Lecture - 041** : <ins>Time & space complexity of recursive algorithm</ins> - _10-03-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-041)
 - **Lecture - 042** : <ins>OOPs concepts in C++</ins>
 - **Lecture - 043** : <ins>A pillars of OOPs concept: inheritance, polymorphism, encapsulation & abstraction</ins>
 - **Lecture - 044** : <ins>Linked list & its types - singly, doubly, circular</ins>
