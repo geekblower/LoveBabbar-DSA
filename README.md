@@ -45,11 +45,11 @@
 - **Lecture - 040** : <ins>Rat in a maze problem</ins> - _09-03-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-040)
 - **Lecture - 041** : <ins>Time & space complexity of recursive algorithm</ins> - _10-03-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-041)
 - **Lecture - 042** : <ins>OOPs concepts in C++</ins> - _13-03-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-042)
-- **Lecture - 043** : <ins>A pillars of OOPs concept: inheritance, polymorphism, encapsulation & abstraction</ins>
-- **Lecture - 044** : <ins>Linked list & its types - singly, doubly, circular</ins>
-- **Lecture - 045** : <ins>Linked list questions: reverse LL and find middle of LL</ins>
-- **Lecture - 046** : <ins>Linked list questions: reverse LL in 'k group' && check LL is circular or not</ins>
-- **Lecture - 047** : <ins>Detect & remove loop in linked list</ins>
+- **Lecture - 043** : <ins>A pillars of OOPs concept: inheritance, polymorphism, encapsulation & abstraction</ins> - _16-03-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-043)
+- **Lecture - 044** : <ins>Linked list & its types - singly, doubly, circular</ins> - _22-03-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-044)
+- **Lecture - 045** : <ins>Linked list questions: reverse LL and find middle of LL</ins> - _23-03-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-045)
+- **Lecture - 046** : <ins>Linked list questions: reverse LL in 'k group' && check LL is circular or not</ins> - _25-03-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-046)
+- **Lecture - 047** : <ins>Detect & remove loop in linked list</ins> - _26-03-2023 (Sun)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-047)
 - **Lecture - 048** : <ins>Remove duplicates from a sorted/unsorted linked list</ins>
 - **Lecture - 049** : <ins>Merge 2 sorted linked list & sort 0s, 1s, 2s in linked list</ins>
 - **Lecture - 050** : <ins>Check palindrome in linked list</ins>
