@@ -53,24 +53,18 @@
 - **Lecture - 048** : <ins>Remove duplicates from a sorted/unsorted linked list</ins>
 - **Lecture - 049** : <ins>Merge 2 sorted linked list & sort 0s, 1s, 2s in linked list</ins>
 - **Lecture - 050** : <ins>Check palindrome in linked list</ins>
-
-
-
-
-
-
-
-
 - **Lecture - 051** : <ins>Add 2 Numbers represented by linked lists</ins>
 - **Lecture - 052** : <ins>Clone a linked list with random pointers</ins>
 - **Lecture - 053** : <ins>Merge sort in linked list</ins>
 - **Lecture - 054** : <ins>Introduction to stacks</ins>
-- **Lecture - 055** : <ins>Stack interview questions</ins>
-- **Lecture - 056** : <ins>Largest rectangular area in histogram</ins>
+- **Lecture - 055** : <ins>Stack interview questions</ins> - _12-04-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-055)
+- **Lecture - 056** : <ins>Largest rectangular area in histogram</ins> - _13-04-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-056)
 - **Lecture - 057** : <ins>Stack - celebrity problem & max rectangle in binary matrix with all 1's</ins>
 - **Lecture - 058** : <ins>'N' stacks in an array</ins>
 - **Lecture - 059** : <ins>Design special stack problem</ins>
 - **Lecture - 060** : <ins>Queues in C++</ins>
+
+
 - **Lecture - 061** : <ins>Queue FAANG interview questions</ins>
 - **Lecture - 062** : <ins>Binary trees & its representations</ins>
 - **Lecture - 063** : <ins>Binary tree FAANG interview questions (part-1)</ins>
