@@ -57,19 +57,21 @@
 - **Lecture - 052** : <ins>Clone a linked list with random pointers</ins>
 - **Lecture - 053** : <ins>Merge sort in linked list</ins>
 - **Lecture - 054** : <ins>Introduction to stacks</ins>
-- **Lecture - 055** : <ins>Stack interview questions</ins> - _12-04-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-055)
-- **Lecture - 056** : <ins>Largest rectangular area in histogram</ins> - _13-04-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-056)
-- **Lecture - 057** : <ins>Stack - celebrity problem & max rectangle in binary matrix with all 1's</ins>
-- **Lecture - 058** : <ins>'N' stacks in an array</ins>
-- **Lecture - 059** : <ins>Design special stack problem</ins>
-- **Lecture - 060** : <ins>Queues in C++</ins>
-
-
+- **Lecture - 055** : <ins>Stack interview questions</ins>
+- **Lecture - 056** : <ins>Largest rectangular area in histogram</ins> - _12-04-2023 (Wed)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-056)
+- **Lecture - 057** : <ins>Stack - celebrity problem & max rectangle in binary matrix with all 1's</ins> - _13-04-2023 (Thu)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-057)
+- **Lecture - 058** : <ins>'N' stacks in an array</ins> - _14-04-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-058)
+- **Lecture - 059** : <ins>Design special stack problem</ins> - _15-04-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-059)
+- **Lecture - 060** : <ins>Queues in C++</ins> - _17-04-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-060)
 - **Lecture - 061** : <ins>Queue FAANG interview questions</ins>
 - **Lecture - 062** : <ins>Binary trees & its representations</ins>
 - **Lecture - 063** : <ins>Binary tree FAANG interview questions (part-1)</ins>
 - **Lecture - 064** : <ins>Binary tree FAANG interview questions (part-2)</ins>
 - **Lecture - 065** : <ins>Binary tree FAANG interview questions (part-3)</ins>
+
+
+
+
 - **Lecture - 066** : <ins>Construct a binary tree from inorder, preorder & postorder traversal</ins>
 - **Lecture - 067** : <ins>Minimum time to burn the entire binary tree</ins>
 - **Lecture - 068** : <ins>Morris traversal: Flatten a binary tree to linked list</ins>
