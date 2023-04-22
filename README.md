@@ -64,8 +64,8 @@
 - **Lecture - 059** : <ins>Design special stack problem</ins> - _15-04-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-059)
 - **Lecture - 060** : <ins>Queues in C++</ins> - _17-04-2023 (Mon)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-060)
 - **Lecture - 061** : <ins>Queue FAANG interview questions</ins>
-- **Lecture - 062** : <ins>Binary trees & its representations</ins>
-- **Lecture - 063** : <ins>Binary tree FAANG interview questions (part-1)</ins>
+- **Lecture - 062** : <ins>Binary trees & its representations</ins> - _21-04-2023 (Fri)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-062)
+- **Lecture - 063** : <ins>Binary tree FAANG interview questions (part-1)</ins> - _22-04-2023 (Sat)_ :white_check_mark: [**(View Code)**](https://github.com/geekblower/LoveBabbar-DSA/tree/main/Lecture-063)
 - **Lecture - 064** : <ins>Binary tree FAANG interview questions (part-2)</ins>
 - **Lecture - 065** : <ins>Binary tree FAANG interview questions (part-3)</ins>
 
