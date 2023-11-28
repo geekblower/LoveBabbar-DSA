@@ -27,7 +27,7 @@ void unionSet(int u, int v, vector<int> &parent, vector<int> &rank) {
         parent[u] = v;
     } else if(rank[v] < rank[u]) {
         parent[v] = u;
-        rank[u]++;
+      
     } else {
         parent[v] = u;
         rank[u]++;
