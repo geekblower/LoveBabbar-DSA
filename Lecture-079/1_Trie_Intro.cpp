@@ -4,12 +4,12 @@ using namespace std;
 class TrieNode {
     public:
         char data;
-        TrieNode* children[26];
-        bool isTerminal;
+        TrieNode* children[26]; //each node can have 26 children
+        bool isTerminal; //search eg : TIME present => TIM present (not necessary) -> make E terminal
 
         TrieNode(char ch) {
             this->data = ch;
-            this->isTerminal = false;
+            this->isTerminal = false; //Initialise bool as F
 
             for(int i=0; i<26; i++) {
                 this->children[i] = NULL;
@@ -18,7 +18,7 @@ class TrieNode {
 };
 
 class Trie {
-    public :
+    public :    
         TrieNode* root;
 
         Trie() {
@@ -26,8 +26,10 @@ class Trie {
         }
 
         void insertUtil(TrieNode* &root, string word) {
+
+            //base case
             if(word.length() == 0) {
-                root->isTerminal = true;
+                root->isTerminal = true; //mark terminal node's bool as true
                 return;
             }
 
@@ -45,7 +47,7 @@ class Trie {
             }
 
             // Recursion
-            insertUtil(child, word.substr(1));
+            insertUtil(child, word.substr(1)); //start from index 1 onwards
         }
 
         void insertNode(string word) {
@@ -55,8 +57,8 @@ class Trie {
         bool searchUtil(TrieNode* root, string word) {
             // Base case
             if(word.length() == 0) {
-                return root->isTerminal;
-            }
+                return root->isTerminal; //For prefix return true in this step
+            } 
 
             // Finding index through mapping
             int index = word[0] - 'A';
@@ -77,15 +79,15 @@ class Trie {
             return searchUtil(root, word);
         }
 
-        bool removeUtil(TrieNode* root, string word) {
+        void removeUtil(TrieNode* root, string word) {
             // Base case
             if(word.length() == 0) {
                 if(root->isTerminal) {
+                    // If the current node represents the end of a word,
+                    // mark it as non-terminal (remove the word from the Trie)
                     root->isTerminal = false;
-                    return true;
-                } else {
-                    return false;
                 }
+                return;
             }
 
             // Finding index through mapping
@@ -93,29 +95,33 @@ class Trie {
             TrieNode* child;
 
             if(root->children[index] != NULL) {
-                // Present
+                // If the child node corresponding to the current character exists,
+                // move to that child and continue the removal process
                 child = root->children[index];
             } else {
-                // Absent
-                return false;
+                // If the child node doesn't exist, the word is not present in the Trie
+                return;
             }
 
-            return removeUtil(child, word.substr(1));
+            // Recursively call removeUtil on the child node with the remaining characters of the word
+            removeUtil(child, word.substr(1));
+        
         }
 
-        bool remove(string word) {
+
+        void remove(string word) {
             return removeUtil(root, word);
         }
 
-        bool eraseUtil(TrieNode* root, string word) {
+        void eraseUtil(TrieNode* root, string word) {
             // Base case
             if(word.length() == 0) {
                 if(root->isTerminal) {
                     root->isTerminal = false;
                     delete root;
-                    return true;
+                    return;
                 } else {
-                    return false;
+                    return;
                 }
             }
 
@@ -128,15 +134,15 @@ class Trie {
                 child = root->children[index];
             } else {
                 // Absent
-                return false;
+                return;
             }
 
-            bool ans = eraseUtil(child, word.substr(1));
-            delete child;
-            return ans;
+            eraseUtil(child, word.substr(1));
+            //delete child;
+            return;
         }
 
-        bool erase(string word) {
+        void erase(string word) {
             return eraseUtil(root, word);
         }
 };
