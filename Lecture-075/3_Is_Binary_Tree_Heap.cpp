@@ -19,7 +19,7 @@ bool isCBT(Node* root, int index, int cnt) {
         return true;
     }
 
-    if(index > cnt) {
+    if(index >= cnt) {
         return false;
     }
 
