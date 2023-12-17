@@ -1,94 +1,77 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
-bool isSafe(vector< vector<int> > maze, vector< vector<int> > visited, int n, int newX, int newY) {
-    return ((newX >= 0) && (newX < n) && (newY >= 0) && (newY < n) && (maze[newX][newY] == 1) && (visited[newX][newY] == 0));
+class Solution {
+  void findPathHelper(int i, int j, vector < vector < int >> & a, int n, vector < string > & ans, string &move,
+    vector < vector < int >> & vis) {
+    if (i == n - 1 && j == n - 1) {
+      ans.push_back(move);
+      return;
+    }
+
+    //DLRU Lexographic order
+
+    // downward
+    if (i + 1 < n && !vis[i + 1][j] && a[i + 1][j] == 1) {
+      vis[i][j] = 1;
+      move.push_back('D');
+      findPathHelper(i + 1, j, a, n, ans, move, vis);
+      vis[i][j] = 0;
+      move.pop_back(); //either write this or pass the move string without by ref
+    }
+
+    // left
+    if (j - 1 >= 0 && !vis[i][j - 1] && a[i][j - 1] == 1) {
+      vis[i][j] = 1;
+      move.push_back('L');
+      findPathHelper(i, j - 1, a, n, ans, move, vis);
+      vis[i][j] = 0;
+      move.pop_back();
+    }
+
+    // right 
+    if (j + 1 < n && !vis[i][j + 1] && a[i][j + 1] == 1) {
+      vis[i][j] = 1;
+      move.push_back('R');
+      findPathHelper(i, j + 1, a, n, ans, move, vis);
+      vis[i][j] = 0;
+      move.pop_back();
+    }
+
+    // upward
+    if (i - 1 >= 0 && !vis[i - 1][j] && a[i - 1][j] == 1) {
+      vis[i][j] = 1;
+      move.push_back('U');
+      findPathHelper(i - 1, j, a, n, ans, move, vis);
+      vis[i][j] = 0;
+      move.pop_back();
+    }
+
+  }
+  public:
+    vector < string > findPath(vector < vector < int >> & m, int n) {
+      vector < string > ans;
+      vector < vector < int >> vis(n, vector < int > (n, 0));
+      string s="";
+
+      if (m[0][0] == 1) findPathHelper(0, 0, m, n, ans, s, vis);
+      return ans;
+    }
+};
+
+int main() { 
+  int n = 4;
+
+   vector < vector < int >> m = {{1,0,0,0},{1,1,0,1},{1,1,0,0},{0,1,1,1}};
+
+  Solution obj;
+  vector < string > result = obj.findPath(m, n);
+  if (result.size() == 0)
+    cout << -1;
+  else
+    for (int i = 0; i < result.size(); i++) cout << result[i] << " ";
+  cout << endl;
+
+  return 0;
 }
-
-void paths(vector<string> &answer, vector< vector<int> > &maze, vector< vector<int> > &visited, string path, int x, int y, int n) {
-    if(x == n-1 && y == n-1) {
-        answer.push_back(path);
-        return;
-    }
-
-    int newX, newY;
-
-    // Down Movement - 'D'
-    newX = x+1;
-    newY = y;
-    if(isSafe(maze, visited, n, newX, newY)) {
-        visited[newX][newY] = 1;
-        path.push_back('D');
-        paths(answer, maze, visited, path, newX, newY, n);
-        visited[newX][newY] = 0;
-        path.pop_back();
-    }
-
-    // Left Movement - 'L'
-    newX = x;
-    newY = y-1;
-    if(isSafe(maze, visited, n, newX, newY)) {
-        visited[newX][newY] = 1;
-        paths(answer, maze, visited, path+'L', newX, newY, n);
-        visited[newX][newY] = 0;
-    }
-
-    // Right Movement - 'R'
-    newX = x;
-    newY = y+1;
-    if(isSafe(maze, visited, n, newX, newY)) {
-        visited[newX][newY] = 1;
-        paths(answer, maze, visited, path+'R', newX, newY, n);
-        visited[newX][newY] = 0;
-    }
-
-    // Up Movement - 'U'
-    newX = x-1;
-    newY = y;
-    if(isSafe(maze, visited, n, newX, newY)) {
-        visited[newX][newY] = 1;
-        paths(answer, maze, visited, path+'U', newX, newY, n);
-        visited[newX][newY] = 0;
-    }
-}
-
-vector<string> searchMaze(vector< vector<int> > &arr, int n) {
-    vector< vector<int> > visited(n, vector<int> (n,0));
-    vector<string> answer;
-
-    if(arr[0][0] != 0) {
-        paths(answer, arr, visited, "", 0, 0, n);
-    }
-
-    return answer;
-}
-
-int main() {
-    vector< vector<int> > maze;
-    int n = 4;
-
-    cout << "Enter the maze : " << endl;
-    for(int i=0; i<n; i++) {
-        vector<int> temp(n);
-        for(int j=0; j<n; j++) {
-            cin >> temp[j];
-        }
-        maze.push_back(temp);
-    }
-
-    vector<string> path = searchMaze(maze, n);
-
-    cout << "All possible paths : ";
-    for(string s : path) {
-        cout << s << " ";
-    }
-
-    return 0;
-}
-
-/*
-1 0 0 0
-1 1 0 0
-1 1 0 0
-0 1 1 1
-*/
