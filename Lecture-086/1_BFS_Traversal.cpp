@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void traversal(unordered_map<int, list<int> > &adjList, unordered_map<int, bool> &visited, vector<int> &answer, int node) {
+void traversal(map <int, set<int> > &adjset, map <int, bool> &visited, vector<int> &answer, int node) {
     queue<int> Q;
     Q.push(node);
     visited[node] = 1;
@@ -9,40 +9,50 @@ void traversal(unordered_map<int, list<int> > &adjList, unordered_map<int, bool>
     while(!Q.empty()) {
         int frontVal = Q.front();
         Q.pop();
-        visited[frontVal] = true;
+        //visited[frontVal] = true;
         answer.push_back(frontVal);
-
-        for(auto i : adjList[frontVal]) {
+ 
+        for(auto i : adjset[frontVal]) {
             if(!visited[i]) {
                 Q.push(i);
+                visited[i]=1;
             }
         }
     }
 }
 
-vector<int> BFS(int vertex, vector< pair<int, int> > edges) {
-    unordered_map<int, list<int> > adjList;
+vector<int> bfsOfGraph(int vertex, vector< pair<int, int> > edges) {
+    map <int, set<int> > adjset;
     vector<int> answer;
-    unordered_map<int, bool> visited;
+    map <int, bool> visited; //default F
     
-    // Creating Adjacency List
+    // Creating Adjacency set
     for(int i=0; i<edges.size( ); i++) {
         int u = edges[i].first;
         int v = edges[i].second;
-
-        adjList[u].push_back(v);
-        adjList[v].push_back(u);
+ 
+        adjset[u].insert(v);
+        adjset[v].insert(u);    
     }
 
-    // Traversing all components of a graph
-    for(int i=0; i<vertex; i++) {
-        if(!visited[i]) {
-            traversal(adjList, visited, answer, i);
+    auto x=adjset.begin();
+    int entry=x->first;
+
+    traversal(adjset, visited, answer, entry); //if not disconnected
+
+/*  //Traversing all components of a graph for disconnected components
+    for (const auto& pair : adjset) {
+        if(!visited[pair.first]) {
+            //cout<<pair.first<<" ";
+            traversal(adjset, visited, answer, pair.first);
         }
-    }
+    } 
+
+    */
 
     return answer;
 }
+
 
 int main() {
     int n, m;
@@ -56,17 +66,37 @@ int main() {
     vector< pair<int,int> > edges(m, {0,0});
 
     for(int i=0; i<m; i++) {
-        cin >> edges[0].first;
-        cin >> edges[0].second;
+        cin >> edges[i].first;
+        cin >> edges[i].second; 
     }
 
-    vector<int> solution = BFS(n, edges);
+    vector<int> solution = bfsOfGraph(n, edges);
 
-    cout << "BFS Traversal : ";
+    cout << "bfsOfGraph Traversal : ";
     for(auto i : solution) {
         cout << i << " ";
     }
     cout << endl;
 
-    return 0;
+    return 0; 
 }
+
+/* 
+Indexes
+0 1
+1 2
+2 3
+3 4
+4 1 
+*/
+
+/*  
+Node values
+1 2
+2 3
+3 5
+5 7
+7 2
+1 2 3 7 5 -> BFS
+*/
+
