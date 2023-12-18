@@ -35,9 +35,12 @@ vector<int> bfsOfGraph(int vertex, vector< pair<int, int> > edges) {
         adjset[v].insert(u);    
     }
 
-    //traversal(adjset, visited, answer, 0); if not disconnected
+    auto x=adjset.begin();
+    int entry=x->first;
 
-    //Traversing all components of a graph for disconnected components
+    traversal(adjset, visited, answer, entry); //if not disconnected
+
+/*  //Traversing all components of a graph for disconnected components
     for (const auto& pair : adjset) {
         if(!visited[pair.first]) {
             //cout<<pair.first<<" ";
@@ -45,8 +48,11 @@ vector<int> bfsOfGraph(int vertex, vector< pair<int, int> > edges) {
         }
     } 
 
+    */
+
     return answer;
 }
+
 
 int main() {
     int n, m;
@@ -91,5 +97,6 @@ Node values
 3 5
 5 7
 7 2
+1 2 3 7 5 -> BFS
 */
 
