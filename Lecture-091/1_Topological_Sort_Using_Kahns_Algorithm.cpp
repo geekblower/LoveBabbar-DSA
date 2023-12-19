@@ -39,7 +39,7 @@ vector<int> topologicalSort(vector< vector<int> > &edges, int v, int e) {
     }
 
     for(int i=0; i<v; i++) {
-        if(indegree[i] == 0) {
+        if(indegree[i] == 0 && !visited[i]) {
             qu.push(i);
         }
         if(!visited[i]) {
