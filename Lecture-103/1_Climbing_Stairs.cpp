@@ -17,7 +17,7 @@ int totalWaysRec2(int n, int i) {
     Recursion + Memoization
 */
 int totalWaysDP(int n, vector<int> &dp) {
-    if(n<=0) return 0;
+    if(n<=0) return 1;
     if(n<=2) return n;
     
     if(dp[n] != 0) return dp[n];
