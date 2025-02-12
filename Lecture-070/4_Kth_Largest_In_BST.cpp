@@ -3,7 +3,22 @@
 using namespace std;
 
 int kthLargest(Node* root, int &index, int K) {
-    
+    if(root == NULL) {
+        return -1;
+    }
+
+    // Reverse Inorder Traversal
+    int right = kthLargest(root->right, index, K);
+    if(right != -1) {
+        return right;
+    }
+
+    index++;
+    if(index == K) {
+        return root->data;
+    }
+
+    return kthLargest(root->left, index, K);
 }
 
 int main() {
